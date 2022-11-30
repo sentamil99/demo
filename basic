@@ -32,7 +32,8 @@ public class ArrayTask {
 		//at.negativeNoArray();
 		//at.countOfNegativeNo();
 		//at.copyNegativeNoArray();
-		at.addTwoArray();
+		//
+at.addTwoArray();
 	}
 	
 	
