@@ -27,7 +27,7 @@ public class ExceptionHandling {
 			int[] ar1=new int[3];
 //			ar[10]=10;
 //			System.out.println(10/0);
-//			System.out.println(name.charAt(10));
+//	//		System.out.println(name.charAt(10));
 			
 			
 		} 
