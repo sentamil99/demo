@@ -20,8 +20,8 @@ public class ExceptionHandling {
 		//System.out.println(10/0);
 		String name="tamil";
 		int[] ar=new int[3];
-              /////ar[10]=10;
-		
+              //ar[10]=10;
+
 		
 		try {
 			int[] ar1=new int[3];
