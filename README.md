@@ -16,7 +16,7 @@ public class ExceptionHandling {
 	}
 
 	private void tryCatch() throws FileNotFoundException{
-		//// TODO Auto-generated method stub
+		// TODO Auto-generated method stub
 		//System.out.println(10/0);
 		String name="tamil";
 		int[] ar=new int[3];
