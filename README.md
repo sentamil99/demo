@@ -4,14 +4,14 @@ import java.io.FileNotFoundException;
 
 public class ExceptionHandling {
 
-	public static void main(String[] args) {
+	public static 5void main(String[] args) {
 		//
 // TODO Auto-generated method stub
 		ExceptionHandling eh=new ExceptionHandling();
 		try {
 			eh.tryCatch();
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
+			////// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
