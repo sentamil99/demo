@@ -6,7 +6,6 @@ public class ExceptionHandling {
 
 	public static 5void main(String[] args) {
 		///////
-
 // TODO Auto-generated method stub
 		ExceptionHandling eh=new ExceptionHandling();
 		try {
