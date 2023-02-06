@@ -13,7 +13,7 @@ import java.security.cert.Extension;
 public class FileIo {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub///
+		//// TODO Auto-generated method stub///
 		FileIo fi =new FileIo();
 		//fi.createFile();
 		//fi.createFolder();
