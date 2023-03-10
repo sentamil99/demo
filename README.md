@@ -44,7 +44,7 @@ public class ExceptionHandling {
 		catch (ArrayIndexOutOfBoundsException e) {
 			// TODO: handle exception
 			System.out.println("your array index greater then");
-		}
+		
 		catch (Exception e) {
 			// TODO: handle exception
 			System.out.println(e);
